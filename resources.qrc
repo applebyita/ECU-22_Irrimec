@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/elenco1.png</file>
+        <file>Resources/map.png</file>
+        <file>Resources/irrigation.png</file>
+        <file>Resources/LEDGiallo.png</file>
+        <file>Resources/LEDGrigio.png</file>
+        <file>Resources/LEDRosso.png</file>
+        <file>Resources/LEDVerde.png</file>
+        <file>Resources/minus.png</file>
+        <file>Resources/plus.png</file>
+        <file>Resources/map.qml</file>
+        <file>Resources/logo.png</file>
+        <file>Resources/utente.png</file>
+        <file>Resources/PLSMP.png</file>
+        <file>Resources/GMP.png</file>
+        <file>Resources/MOTOR.png</file>
+        <file>Resources/WiFi.png</file>
+        <file>Resources/error.png</file>
+        <file>Resources/digifaw.ttf</file>
+        <file>Resources/auto.png</file>
+        <file>Resources/auto_on.png</file>
+        <file>Resources/esclusione.png</file>
+        <file>Resources/esclusione_on.png</file>
+        <file>Resources/meno.png</file>
+        <file>Resources/piu.png</file>
+        <file>Resources/stop.png</file>
+        <file>Resources/stop_on.png</file>
+        <file>Resources/timer.png</file>
+        <file>Resources/timer_on.png</file>
+        <file>Resources/BAR.png</file>
+        <file>Resources/battery.png</file>
+        <file>Resources/fuel.png</file>
+        <file>Resources/RPM.png</file>
+        <file>Resources/water.png</file>
+        <file>Resources/Allarme.png</file>
+        <file>Resources/Warning.png</file>
+        <file>Resources/ecu.png</file>
+    </qresource>
+</RCC>
